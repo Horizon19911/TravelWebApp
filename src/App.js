@@ -5,6 +5,7 @@ export default class App extends Component {
     return (
       <div>
         <h1>hello motherfucker. shit</h1>
+        <textarea class="commentBox" placeholder="Place your comments here" type="textarea"></textarea> 
       </div>
     )
   }
